@@ -1,0 +1,6 @@
+[submodule "python-bot"]
+	path = python-bot
+	url = /Users/thivi/Desktop/Jilmart/python-bot
+[submodule "pb-hack"]
+	path = pb-hack
+	url = /Users/thivi/Desktop/Jilmart/pb-hack
